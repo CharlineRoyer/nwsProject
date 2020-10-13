@@ -19,7 +19,7 @@ sections:
   - post
 - type: directory
   path: content/about
-  label: About
+  label: à propos de moi
   create: all
   match: "**/*"
 upload_dir: static/images
